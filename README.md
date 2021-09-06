@@ -1,6 +1,6 @@
 # 발간된 논문
 
-##  Predicting Successes and Failures of Clinical Trials With Outer Product-Based Convolutional Neural Network
+<!--Predicting Successes and Failures of Clinical Trials With Outer Product-Based Convolutional Neural Network-->
 ### 임상실험 성공 실패 예측을 위한 외적기반의 합성곱 신경망
 
 ## Abstract & Method
