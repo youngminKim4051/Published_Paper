@@ -1,7 +1,8 @@
 # 발간된 논문
 
-<!--Predicting Successes and Failures of Clinical Trials With Outer Product-Based Convolutional Neural Network-->
-### 임상실험 성공 실패 예측을 위한 외적기반의 합성곱 신경망
+## Predicting Successes and Failures of Clinical Trials With Outer Product-Based Convolutional Neural Network
+### SCI - Frontier
+### 임상실험 성공 실패 예측을 위한 외적기반의 합성곱 신경망 
 
 ## Abstract & Method
 * SMILES Sequences 화합물(약) 표현식 데이터를 활용한 임상실험 성공 실패 예측
@@ -16,3 +17,7 @@
 ### PrOCTOR = Predicting Odds of Clinical Trial Outcomes using a Random Forest Classifier
 References : A Data-Driven Approach to Predicting Successes and Failures of Clinical Trials 
 Click [here](https://github.com/kgayvert/PrOCTOR)
+
+1. 발명의 명칭 : 외적 기반의 합성곱 신경망을 이용한 임상시험의 성공 및 실패 예측 방법 및 이를 위한 시스템
+2. 출원번호 : 제 10-2021-0096751 호
+3. 출원일 : 2021. 07. 22
