@@ -1,11 +1,7 @@
-# 
-KT 해지시그널 프로젝트 Overview <hr/>
+# 발간된 논문
 
-## 개요 
-### 
-
-
-2020년 7월 인터넷 등 *유선결합상품*을 이용하던 소비자가 타 통신사로 이동할 경우 별도의 해지 절차 없이 바로 유선서비스를 이용할 수 있게 됨.
+##  Predicting Successes and Failures of Clinical Trials With Outer Product-Based Convolutional Neural Network
+### 임상실험 성공 실패 예측을 위한 외적기반의 합성곱 신경망
 
 ## 서비스 목적
 * 기존에는 KT에 직접적으로 요청을 하여 유선상품을 해지, 이에 담당자가 해지방어를 위한 여러가지 시도가 가능함
